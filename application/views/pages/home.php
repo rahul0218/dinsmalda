@@ -175,7 +175,7 @@
       <div class="card-body">
         <ul class="list-inline mb-2">
           <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
+          <li class="list-inline-item"><a class="text-color" href="#">BSN</a></li>
         </ul>
         <a href="<?php base_url();?>course-bsc-bmlt">
           <h4 class="card-title">BACHELOR OF SCIENCE IN NURSING</h4>
@@ -192,7 +192,7 @@
       <div class="card-body">
         <ul class="list-inline mb-2">
           <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
+          <li class="list-inline-item"><a class="text-color" href="#">GNM</a></li>
         </ul>
         <a href="<?php base_url();?>course-bsc-ott">
           <h4 class="card-title">GENERAL NURSING & MIDWIFERY</h4>
@@ -204,69 +204,9 @@
     </div>
   </div>
   <!-- course item -->
-  <div class="col-lg-4 col-sm-6 mb-5">
-    <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" src="assets/images/courses/course-3.jpg" alt="course thumb">
-      <div class="card-body">
-        <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
-        </ul>
-        <a href="<?php base_url();?>course-bsc-cct">
-          <h4 class="card-title">B.Sc CCT ( B.Sc Critical Care Technology)</h4>
-        </a>
-        <p class="card-text mb-4"> B.Sc in Critical Care Technology is an undergraduate course in which students learn about the theoretical and 
-          practical aspects of equipment and equipment used in intensive care units such as Electrocardiogram (ECG),...</p>
-        <a href="<?php base_url();?>course-bsc-cct" class="btn btn-primary btn-sm">Know more</a>
-      </div>
-    </div>
-  </div>
-  <!-- course item -->
-  <!-- course item -->
-  <div class="col-lg-4 col-sm-6 mb-5">
-    <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" src="assets/images/courses/course-4.jpg" alt="course thumb">
-      <div class="card-body">
-        <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
-        </ul>
-        <a href="<?php base_url();?>course-bsc-pa">
-          <h4 class="card-title">BSc PA(Bachelor in Physician Assistant)</h4>
-        </a>
-        <p class="card-text mb-4"> The B.S Physician Assistant is a three-year non-compulsory health care training course. 
-          There are many job opportunities for graduates in this subject.</p>
-        <a href="<?php base_url();?>course-bsc-pa" class="btn btn-primary btn-sm">Know more</a>
-      </div>
-    </div>
-  </div>
-  <!-- course item -->
-  <!-- course item -->
-  <!-- course item -->
-  <div class="col-lg-4 col-sm-6 mb-5">
-    <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" src="assets/images/courses/course-5.jpg" alt="course thumb">
-      <div class="card-body">
-        <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
-        </ul>
-        <a href="<?php base_url();?>course-bpt">
-          <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
-        </a>
-        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, 
-          physical movements and exercise to improve and cure injuries, deformities and diseases, disability. 
-          Along with rehabilitation, some other important sections of physiotherapy are- diagnosis, examination 
-          and assessment of the condition. The course also highlights the importance of six months of mandatory 
-          clinical internship.  Regular classroom sessions and clinical sessions constitute 4½ years of the academic program.</p>
-        <a href="<?php base_url();?>course-bpt" class="btn btn-primary btn-sm">Know more</a>
-      </div>
-    </div>
-  </div>
-  <!-- course item -->
   <!-- course item -->
   
-</div>
+
 <!-- /course list -->
     <!-- mobile see all button -->
     <div class="row">

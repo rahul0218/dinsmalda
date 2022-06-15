@@ -6,9 +6,9 @@
       <div class="col-md-8">
         <ul class="list-inline custom-breadcrumb">
           <li class="list-inline-item"><a class="h2 text-primary font-secondary" href="courses.html">Our Courses</a></li>
-          <li class="list-inline-item text-white h3 font-secondary nasted">B.Sc BMLT (Bachelor in Medical laboratory Technician)</li>
+          <li class="list-inline-item text-white h3 font-secondary nasted">BACHELOR OF SCIENCE IN NURSING</li>
         </ul>
-        <p class="text-lighten">3 years vocational course. 6 days a week classes.</p>
+        <p class="text-lighten">4 years course.</p>
 
       </div>
     </div>
@@ -28,7 +28,7 @@
     <!-- course info -->
     <div class="row align-items-center mb-5">
       <div class="col-xl-3 order-1 col-sm-6 mb-4 mb-xl-0">
-        <h2>B.Sc BMLT (Bachelor in Medical laboratory Technician)</h2>
+        <h2>BACHELOR OF SCIENCE IN NURSING</h2>
       </div>
       <div class="col-xl-6 order-sm-3 order-xl-2 col-12 order-2">
         <ul class="list-inline text-xl-center">
@@ -37,20 +37,20 @@
               <i class="ti-book text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">COURSES</h6>
-                <p class="mb-0">03 Years</p>
+                <p class="mb-0">04 Years</p>
               </div>
             </div>
           </li>
-          <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
+          <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
-              <i class="ti-alarm-clock text-primary icon-md mr-2"></i>
+              <i class="ti-user text-primary icon-md mr-2"></i>
               <div class="text-left">
-                <h6 class="mb-0">DURATION</h6>
-                <p class="mb-0">Daily 4-6 hours</p>
+                <h6 class="mb-0">NUMBER OF SEATS</h6>
+                <p class="mb-0">60 SEATS</p>
                 
               </div>
             </div>
-          </li> -->
+          </li>
           <!-- <li class="list-inline-item mr-4 mb-3 mb-sm-0">
             <div class="d-flex align-items-center">
               <i class="ti-wallet text-primary icon-md mr-2"></i>
@@ -74,45 +74,58 @@
     <div class="row">
       <div class="col-12 mb-4">
         <h3>About Course</h3>
-        <p>A Bachelor in Medical Laboratory Technology or a BMLT course is one of the growing and advanced courses in the modern field of healthcare. 
-          BMLT study duration is 3 years divided equally into 6 semesters. With the advancement of medical science, 
-          doctors need the help of a medical laboratory to treat rapidly growing diseases and graduates of BMLT have the potential to fill those gaps. 
-          The BMLT course is a pre-existing study of medical advances and the increase in the number of labs and lab technologies worldwide. 
-          BMLT courses specialize in training students on the importance of laboratories in the current world, 
-          laboratory discipline and laboratory strategies to be followed in labs. There are a number of job opportunities for BMLT graduates, 
-          especially in the fields of research and pharmacy. Many companies spend large sums of money on research, giving BMLT graduates the opportunity to find work. 
-          If you want something great to come, pick this option! Bachelor / Master degrees can also offer a good education and the desire to become a multi-skilled professional; 
-          so choosing a BMLT program can certainly improve your chances of getting such a job.</p>
+        <p></p>
       </div>
-      <!-- <div class="col-12 mb-4">
-        <h3 class="mb-3">Syllabus</h3>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">RECOGNIZED BY</h3>
         <div class="col-12 px-0">
           <div class="row">
             <div class="col-md-12">
-              <p>1.5-year classes in campus comprises Haematology, Microbiology,
-                Biochemistry, Histopathology, Serology, Blood Banking & Clinical
-                Pathology related all theory & practical. Handling of Binocular
-                Microscope, Vein Finder, Vacutainer, Phlebotomy, Colorimeter,
-                Semi- auto Analyzer, ELISA, Rotary Microtome, Channel set-up,
-                Safety & hygiene etc.</p>
-               <ul class="list-styled">
+              <p>West Bengal Nursing Council</p>
+               <!-- <ul class="list-styled">
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
                 <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-              </ul> 
-            </div>
-            <div class="col-md-6">
-              <ul class="list-styled">
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-              </ul>
+              </ul>  -->
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">AFFILIATION</h3>
+        <div class="col-12 px-0">
+          <div class="row">
+            <div class="col-md-12">
+              <p>The Course is Affiliated to The West Bengal University of Health Science,</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">MEDIUM OF INSTRUCTION</h3>
+        <div class="col-12 px-0">
+          <div class="row">
+            <div class="col-md-12">
+              <p>The medium of instruction will be Bengali and English</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 mb-4">
+        <h3 class="mb-3">ELIGIBILITY FOR ADMISSION</h3>
+        <div class="col-12 px-0">
+          <div class="row">
+            <div class="col-md-12">
+              <ol>
+                <li><b>Age Limit:</b> As per the West Bengal Nursing Council norms</li>
+                <li><b>Education:</b> 10 + 2 or its equivalent examination from a recognized Board/University As per the West Bengal Nursing Council norms</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+      
       <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">How to Apply</h3>
         <ul class="list-styled">
@@ -179,42 +192,10 @@
     </div>
     <div class="row justify-content-center">
       <!-- course item -->
-      <div class="col-lg-4 col-sm-6 mb-5">
-    <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" src="assets/images/courses/course-3.jpg" alt="course thumb">
-      <div class="card-body">
-        <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
-        </ul>
-        <a href="<?php base_url();?>course-single">
-          <h4 class="card-title">B.Sc CCT ( B.Sc Critical Care Technology)</h4>
-        </a>
-        <p class="card-text mb-4"> B.Sc in Critical Care Technology is an undergraduate course in which students learn about the theoretical and 
-          practical aspects of equipment and equipment used in intensive care units such as Electrocardiogram (ECG).</p>
-        <a href="<?php base_url();?>course-bsc-cct" class="btn btn-primary btn-sm">Apply now</a>
-      </div>
-    </div>
-  </div>
+      
   <!-- course item -->
   <!-- course item -->
-  <div class="col-lg-4 col-sm-6 mb-5">
-    <div class="card p-0 border-primary rounded-0 hover-shadow">
-      <img class="card-img-top rounded-0" src="assets/images/courses/course-4.jpg" alt="course thumb">
-      <div class="card-body">
-        <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
-        </ul>
-        <a href="<?php base_url();?>course-bsc-pa">
-          <h4 class="card-title">BSc PA(Bachelor in Physician Assistant)</h4>
-        </a>
-        <p class="card-text mb-4"> The B.S Physician Assistant is a three-year non-compulsory health care training course. 
-          There are many job opportunities for graduates in this subject.</p>
-        <a href="<?php base_url();?>course-bsc-pa" class="btn btn-primary btn-sm">Apply now</a>
-      </div>
-    </div>
-  </div>
+  
   <!-- course item -->
   <!-- course item -->
   <!-- course item -->
@@ -224,12 +205,12 @@
       <div class="card-body">
         <ul class="list-inline mb-2">
           <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
-          <li class="list-inline-item"><a class="text-color" href="#">Paramedical</a></li>
+          <li class="list-inline-item"><a class="text-color" href="#">GNM</a></li>
         </ul>
         <a href="<?php base_url();?>course-bpt">
-          <h4 class="card-title">BPT(Bachelor In Physiotherapy)</h4>
+          <h4 class="card-title">GENERAL NURSING & MIDWIFERY</h4>
         </a>
-        <p class="card-text mb-4"> Bachelor of Physiotherapy or BPT is a 4½-year undergraduate program which focuses on the use of physical therapy, physical movements and exercise to improve and cure injuries, deformities and diseases, disability.</p>
+        <p class="card-text mb-4"> </p>
         <a href="<?php base_url();?>course-bpt" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
