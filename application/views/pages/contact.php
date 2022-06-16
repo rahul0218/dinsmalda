@@ -36,7 +36,7 @@
       <div class="col-lg-7 mb-4 mb-lg-0">
         <p class="mb-5">Do you have other questions? Don't worry, there aren't any dumb questions. Just fill out the form below and we'll get back to you as soon as possible.</p>
         <a href="tel:+919002132556" class="text-color h5 d-block">+91 977 590 1793 / +91 9002 132 556</a>
-        <a href="mailto:dishariparamedical.kolkata@gmail.com" class="mb-5 text-color h5 d-block">dishariparamedical.kolkata@gmail.com</a>
+        <a href="mailto:disharinursingcollege@gmail.com" class="mb-5 text-color h5 d-block">disharinursingcollege@gmail.com</a>
         <p>19, Mollargate Hospital Rd, Santoshpur Govt Colony, Rampur, Santoshpur, <br>Kolkata, West Bengal 700142</p>
       </div>
     </div>

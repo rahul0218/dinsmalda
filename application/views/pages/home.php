@@ -110,15 +110,15 @@
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-blackboard mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Our Notice Board</h3>
-            <p>Admission is open for B.Sc BMLT (Bachelor in Medical Laboratory Technician), B.Sc OTT ( B.Sc Operation Theatre Technology),
-            B.Sc CCT ( B.Sc Critical Care Technology), BSc PA(Bachelor in Physician Assistant), and BPT(Bachelor In Physiotherapy) session 2021-2022.
+            <p>Admission is open for BACHELOR OF SCIENCE IN NURSING
+             and GENERAL NURSING & MIDWIFERY session 2021-2022.
 
             </p>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-agenda mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Our Achievements</h3>
-            <p>We are running diploma paramedical courses across West Bengal. We have successfully given placement for all of our candidates.</p>
+            <p>We are running nursing courses across West Bengal. We have successfully given placement for all of our candidates.</p>
           </div>
           
         </div>
