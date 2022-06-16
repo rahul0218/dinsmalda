@@ -100,7 +100,7 @@
             <i class="ti-write mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Admission Now</h3>
             <p>Admission is open for sessions 2021-2022.</p>
-            <a href="<?php base_url();?>admission-contact" class="btn btn-primary btn-sm">Know more</a>
+            <a href="<?php base_url();?>contact" class="btn btn-primary btn-sm">Know more</a>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-book mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
@@ -112,7 +112,6 @@
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Our Notice Board</h3>
             <p>Admission is open for BACHELOR OF SCIENCE IN NURSING
              and GENERAL NURSING & MIDWIFERY session 2021-2022.
-
             </p>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
@@ -120,7 +119,6 @@
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Our Achievements</h3>
             <p>We are running nursing courses across West Bengal. We have successfully given placement for all of our candidates.</p>
           </div>
-          
         </div>
       </div>
     </div>
