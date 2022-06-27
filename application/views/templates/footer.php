@@ -22,7 +22,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <!-- logo -->
-          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="assets/images/logo.png" alt="logo" width="75" height="75"></a>
+          <a class="logo-footer" href="index.html"><img class="img-fluid mb-4" src="assets/images/logo.png" alt="logo" width="400" height="100"></a>
           <ul class="list-unstyled">
             <li class="mb-2">Registered office :-  N.H. 34, Malda Bypass, Near Malda Court Railway Station, Post- Madhaipur, P.S+ Dist- Malda, Pin- 732142</li>
             <li class="mb-2">Corporate office :- Dishari Health Point Pvt. Ltd. 19 , B. G. Road , P. O - Mokdumpur , P.S- English Bazar, Dist - Malda 732103 , West Bengal.</li>
@@ -84,7 +84,7 @@
               var CurrentYear = new Date().getFullYear()
               document.write(CurrentYear)
             </script> 
-            © Technophiletroops</p>
+            © Dishari Institute. Developed by<a href="https://technophiletroop.com/" target="_blank">Technophiletroops</a></p>
         </div>
         <div class="col-sm-5 text-sm-right text-center">
           <ul class="list-inline">

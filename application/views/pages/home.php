@@ -106,6 +106,13 @@
             <i class="ti-book mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Scholorship News</h3>
             <p>We will give attractive scholarships to meritorious candidates.</p>
+            <p>Scholarship facility available </p>
+            <ul>
+              <li>SVMCM Scholarship</li>
+              <li>Aikyashree Scholarship </li>
+              <li>ST, ST, OBC Scholarship </li>
+              <li>KANYASHREE Scholarship</li>
+            </ul>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-blackboard mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
