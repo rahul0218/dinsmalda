@@ -34,7 +34,7 @@
         </form>
       </div> -->
       <div class="col-lg-7 mb-4 mb-lg-0">
-        <p class="mb-5">Do you have other questions? Don't worry, there aren't any dumb questions. Just fill out the form below and we'll get back to you as soon as possible.</p>
+        <p class="mb-5">Do you have other questions? Don't worry, there aren't any dumb questions. Just contact us in below given number and we'll try to solve your query.</p>
         <a href="tel:+919002132556" class="text-color h5 d-block">+91 977 590 1793 / +91 9002 132 556</a>
         <a href="mailto:disharinursingcollege@gmail.com" class="mb-5 text-color h5 d-block">disharinursingcollege@gmail.com</a>
         <p>N.H. 34, Malda Bypass, Near Malda Court Railway Station, Post- Madhaipur, <br>P.S+ Dist- Malda, West Bengal 732142</p>
