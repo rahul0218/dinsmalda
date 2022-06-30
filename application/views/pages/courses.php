@@ -27,7 +27,7 @@
       <img class="card-img-top rounded-0" src="assets/images/courses/course-1.jpg" alt="course thumb">
       <div class="card-body">
         <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>SESSION 2022-2023</li>
           <li class="list-inline-item"><a class="text-color" href="#">BSN</a></li>
         </ul>
         <a href="<?php base_url();?>course-bsn">
@@ -44,7 +44,7 @@
       <img class="card-img-top rounded-0" src="assets/images/courses/course-2.jpg" alt="course thumb">
       <div class="card-body">
         <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>SESSION 2022-2023</li>
           <li class="list-inline-item"><a class="text-color" href="#">GNM</a></li>
         </ul>
         <a href="<?php base_url();?>course-gnm">

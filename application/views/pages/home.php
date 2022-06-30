@@ -99,26 +99,26 @@
         <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-write mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Admission Now</h3>
-            <p>Admission is open for sessions 2021-2022.</p>
+            <p>Admission is open for sessions 2022-2023.</p>
             <a href="<?php base_url();?>contact" class="btn btn-primary btn-sm">Know more</a>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-book mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Scholorship News</h3>
-            <p>We will give attractive scholarships to meritorious candidates.</p>
+            
             <p>Scholarship facility available </p>
             <ul>
-              <li>SVMCM Scholarship</li>
-              <li>Aikyashree Scholarship </li>
-              <li>ST, ST, OBC Scholarship </li>
-              <li>KANYASHREE Scholarship</li>
+              <li>1 &nbsp &nbsp SVMCM Scholarship</li>
+              <li>2 &nbsp &nbsp Aikyashree Scholarship </li>
+              <li>3 &nbsp &nbsp ST, ST, OBC Scholarship </li>
+              <li>4 &nbsp &nbsp KANYASHREE Scholarship</li>
             </ul>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
             <i class="ti-blackboard mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
             <h3 class="mb-xl-4 mb-lg-3 mb-4">Our Notice Board</h3>
             <p>Admission is open for BACHELOR OF SCIENCE IN NURSING
-             and GENERAL NURSING & MIDWIFERY session 2021-2022.
+             and GENERAL NURSING & MIDWIFERY session 2022-2023.
             </p>
           </div>
           <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
@@ -179,14 +179,14 @@
       <img class="card-img-top rounded-0" src="assets/images/courses/course-1.jpg" alt="course thumb">
       <div class="card-body">
         <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>SESSION 2022-2023</li>
           <li class="list-inline-item"><a class="text-color" href="#">BSN</a></li>
         </ul>
-        <a href="<?php base_url();?>course-bsc-bmlt">
+        <a href="<?php base_url();?>course-bsn">
           <h4 class="card-title">BACHELOR OF SCIENCE IN NURSING</h4>
         </a>
         <p class="card-text mb-4"> </p>
-        <a href="<?php base_url();?>course-bsc-bmlt" class="btn btn-primary btn-sm">Know more</a>
+        <a href="<?php base_url();?>course-bsn" class="btn btn-primary btn-sm">Know more</a>
       </div>
     </div>
   </div>
@@ -196,15 +196,15 @@
       <img class="card-img-top rounded-0" src="assets/images/courses/course-2.jpg" alt="course thumb">
       <div class="card-body">
         <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>SESSION 2022-2023</li>
           <li class="list-inline-item"><a class="text-color" href="#">GNM</a></li>
         </ul>
-        <a href="<?php base_url();?>course-bsc-ott">
+        <a href="<?php base_url();?>course-gnm">
           <h4 class="card-title">GENERAL NURSING & MIDWIFERY</h4>
         </a>
         <p class="card-text mb-4"> 
           </p>
-        <a href="<?php base_url();?>course-bsc-ott" class="btn btn-primary btn-sm">Know more</a>
+        <a href="<?php base_url();?>course-gnm" class="btn btn-primary btn-sm">Know more</a>
       </div>
     </div>
   </div>

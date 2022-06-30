@@ -53,7 +53,7 @@
           <a class="text-color mr-3" href="callto:+919002132556"><strong>CALL</strong> +91 900 213 2556</a>
           <a href="mailto:disharinursingcollege@gmail.com" class="text-color mr-3">disharinursingcollege@gmail.com</a>
             <ul class="list-inline d-inline">
-              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-facebook"></i></a></li>
+              <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="https://www.facebook.com/DishariNursingCollege" target="_blank"><i class="ti-facebook"></i></a></li>
               <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-twitter-alt"></i></a></li>
               <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-linkedin"></i></a></li>
               <li class="list-inline-item mx-0"><a class="d-inline-block p-2 text-color" href="#"><i class="ti-instagram"></i></a></li>

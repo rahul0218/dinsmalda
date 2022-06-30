@@ -204,14 +204,14 @@
       <img class="card-img-top rounded-0" src="assets/images/courses/course-5.jpg" alt="course thumb">
       <div class="card-body">
         <ul class="list-inline mb-2">
-          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>18-01-2022</li>
+          <li class="list-inline-item"><i class="ti-calendar mr-1 text-color"></i>SESSION 2022-2023</li>
           <li class="list-inline-item"><a class="text-color" href="#">GNM</a></li>
         </ul>
-        <a href="<?php base_url();?>course-bpt">
+        <a href="<?php base_url();?>course-gnm">
           <h4 class="card-title">GENERAL NURSING & MIDWIFERY</h4>
         </a>
         <p class="card-text mb-4"> </p>
-        <a href="<?php base_url();?>course-bpt" class="btn btn-primary btn-sm">Apply now</a>
+        <a href="<?php base_url();?>course-gnm" class="btn btn-primary btn-sm">Apply now</a>
       </div>
     </div>
   </div>
