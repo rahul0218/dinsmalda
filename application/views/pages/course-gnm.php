@@ -92,7 +92,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 mb-4">
+      <!-- <div class="col-12 mb-4">
         <h3 class="mb-3">AFFILIATION</h3>
         <div class="col-12 px-0">
           <div class="row">
@@ -101,7 +101,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-12 mb-4">
         <h3 class="mb-3">MEDIUM OF INSTRUCTION</h3>
         <div class="col-12 px-0">
