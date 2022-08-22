@@ -54,7 +54,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/banner/admission.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/images/banner/student.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5></h5>
         <p></p>
@@ -63,17 +63,17 @@
      <div class="carousel-item">
       <img class="d-block w-100" src="assets/images/banner/lamp_lighting.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Ligting Ceremony</h5>
-        <p>Ligting Ceremony</p>
+        <h5>Lighting Ceremony</h5>
+        <p>Lighting Ceremony</p>
       </div>
     </div>
-    <!--<div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/banner/banner-1.jpg" alt="Third slide">
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/images/banner/lamp.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>One</h5>
-        <p>Title</p>
+        <h5></h5>
+        <p></p>
       </div>
-    </div> -->
+    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
