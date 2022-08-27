@@ -74,6 +74,13 @@
         <p></p>
       </div>
     </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="assets/images/banner/college.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+        <p></p>
+      </div>
+    </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -150,7 +157,7 @@
         <a href="<?php base_url();?>about" class="btn btn-primary-outline">Learn more</a>
       </div>
       <div class="col-md-6 order-1 order-md-2 mb-4 mb-md-0">
-        <img class="img-fluid w-100" src="assets/images/about/about-us.jpg" alt="about image">
+        <img class="img-fluid w-100" src="assets/images/banner/building.jpg" alt="about image">
       </div>
     </div>
   </div>
