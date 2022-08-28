@@ -42,19 +42,20 @@
         <a href="tel:+919002132556" class="text-color h5 d-block">+91 977 590 1793 / +91 9002 132 556</a>
         <a href="mailto:disharinursingcollege@gmail.com" class="mb-5 text-color h5 d-block">disharinursingcollege@gmail.com</a>
         <p>N.H. 34, Malda Bypass, Near Malda Court Railway Station, Post- Madhaipur, <br>P.S+ Dist- Malda, West Bengal 732142</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.8033395478906!2d88.16721271427434!3d25.006797583985083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39faf955389b7fdd%3A0xca72572779ffe54b!2sDISHARI%20INSTITUTE%20OF%20NURSING%20SCIENCE%20MALDA!5e0!3m2!1sen!2sin!4v1661161630678!5m2!1sen!2sin" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </div>
-</section>
+
 <!-- /contact -->
 
 <!-- gmap -->
-<section class="section pt-0">
+
   <!-- Google Map -->
   
-  <div>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.8033395478906!2d88.16721271427434!3d25.006797583985083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39faf955389b7fdd%3A0xca72572779ffe54b!2sDISHARI%20INSTITUTE%20OF%20NURSING%20SCIENCE%20MALDA!5e0!3m2!1sen!2sin!4v1661161630678!5m2!1sen!2sin" width="1400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
+  
+  
+  
 </section>
 <!-- /gmap -->
 

@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://localhost/dinsmalda/';
-$config['base_url'] = 'http://dinsmalda.com/';
+$config['base_url'] = 'https://dinsmalda.com/';
 
 /*
 |--------------------------------------------------------------------------
