@@ -54,28 +54,28 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/images/banner/student.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/images/banner/student.png" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5></h5>
         <p></p>
       </div>
     </div>
      <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/banner/lamp_lighting.jpg" alt="Second slide">
+      <img class="d-block w-100" src="assets/images/banner/lamp_lighting.png" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Lighting Ceremony</h5>
         <p>Lighting Ceremony</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/banner/lamp.jpg" alt="Third slide">
+      <img class="d-block w-100" src="assets/images/banner/lamp.png" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5></h5>
         <p></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/images/banner/college.jpg" alt="Third slide">
+      <img class="d-block w-100" src="assets/images/banner/college.png" alt="Fourth slide">
       <div class="carousel-caption d-none d-md-block">
         <h5></h5>
         <p></p>
