@@ -25,10 +25,10 @@
           <li class="d-md-table mb-4 w-100 border-bottom hover-shadow">
             <div class="d-md-table-cell text-center p-4 bg-primary text-white mb-4 mb-md-0"><span class="h2 d-block">18</span> JAN,2022</div>
             <div class="d-md-table-cell px-4 vertical-align-middle mb-4 mb-md-0">
-              <a href="assets/Paramedical_Brochure.pdf" target="_blank" class="h4 mb-3 d-block">Brochure</a>
+              <a href="assets/DISHARI INSTITUTE OF NURSING SCIENCE_Booklet-1.pdf" target="_blank" class="h4 mb-3 d-block">Brochure</a>
               <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt perferendis saepe omnis officia! Doloribus quae maiores laboriosam praesentium enim fugiat ipsam laudantium assumenda!</p>
             </div>
-            <div class="d-md-table-cell text-right pr-0 pr-md-4"><a href="#" target="_blank" class="btn btn-primary">Download</a></div>
+            <div class="d-md-table-cell text-right pr-0 pr-md-4"><a href="assets/DISHARI INSTITUTE OF NURSING SCIENCE_Booklet-1.pdf" target="_blank" class="btn btn-primary">Download</a></div>
           </li>
           <!-- notice item -->
           <!-- <li class="d-md-table mb-4 w-100 border-bottom hover-shadow">
